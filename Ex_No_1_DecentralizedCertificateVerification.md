@@ -1,4 +1,7 @@
 ### Experiment 1: Decentralized Certificate Verification
+
+## Name: Infancia Felcy P
+## Reg No: 212223040067
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
@@ -41,3 +44,6 @@ High-Level Overview:
 ```
 # Result:
 
+<img width="1919" height="881" alt="Screenshot 2026-02-25 085803" src="https://github.com/user-attachments/assets/0f78d3b3-7859-4d66-aa75-7b34f6c0f102" />
+
+<img width="1904" height="877" alt="Screenshot 2026-02-25 085822" src="https://github.com/user-attachments/assets/45d98ab2-f41a-4f6b-b58d-9d965e22c792" />
